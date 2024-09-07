@@ -1,4 +1,4 @@
-# [Movie Review 2.0](https://sasuke-uchiha12.github.io/Movie-Review---Sentiment-Analysis/)
+# [Movie Review](https://sasuke-uchiha12.github.io/Movie-Review---Sentiment-Analysis/)
 
 Welcome to the Movie Review project! This project is a web application for reviewing movies, featuring sentiment analysis on user comments and reviews.
 
