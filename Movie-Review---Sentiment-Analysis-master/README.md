@@ -27,7 +27,7 @@ Movie Review 2.0 is a web application where users can read and write reviews for
 The sentiment analysis feature in this project processes user comments and reviews to determine their sentiment, sorting reviews from good to bad. This is achieved using the TextBlob library in Python. The backend Flask server handles the sentiment analysis and returns the sentiment score to the frontend, which then dynamically sorts the reviews.
 
 ## Technologies Used
-- React, React Router, Sass
+- Html,Css,BootStrap
 - Python, Flask
 - MongoBD
 - GitHub Pages
